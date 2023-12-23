@@ -23,7 +23,6 @@ As a result, we have: p(x)dx = g(y)dy <br>
 if p(x) is the random generator of computers, it is equals to 1 in 0<x<1 and zero else where.
 we can have <br> ![1](1.PNG) <br> ![2](2.PNG) <br>
 So, y can be the inverse of G(x).<br>
--------------
 For Gaussian distribution we have: <br>
 ![4](4.PNG) <br>
 In this form, G(y) cannot be expressed in elementary functions. to solve this issue, we can generate two random
