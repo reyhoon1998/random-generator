@@ -27,7 +27,8 @@ For Gaussian distribution we have: <br>
 ![4](4.PNG) <br>
 In this form, G(y) cannot be expressed in elementary functions. to solve this issue, we can generate two random
 numbers Y1 and Y2 from x instead of one, with a change of coordinates to polar coordinates:<br>
-![3](3.PNG)
+![3](3.PNG) <br>
+in this assignment, I provide a python script for Y1 and Y2 with different Deviation from the standard.
 
 
 
